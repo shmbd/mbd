@@ -1,5 +1,5 @@
 ---
-layout: splash      # or 'page' / 'splash' depending on your theme
+layout: default     # or 'page' / 'splash' depending on your theme
 permalink: /publications/    # ← change this (remove /news.html redirect if unwanted)
 title: "Publications"
 excerpt: "Recent updates and announcements"
