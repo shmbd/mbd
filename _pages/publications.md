@@ -10,7 +10,8 @@ Ferdous, J., Hossain, M. S., Sarker, P. K., Bhuia, M. S., Hasan, M. S. A., Chowd
 
 Hossain, M. S., Tuli, S. R., Fatima, N., Ali, S., Moon, S. B., & Hashem, A. (2025). A comprehensive Pangenome approach to exploring the probiotic potential of Weissella confusa. The Microbe, 100562. https://doi.org/10.1016/j.microb.2025.100562 
 
-Hossain MS, Sharna AA, Sharmin S, Tusty TA, Hashem A, Sarker PK. Exploring the Antibacterial Potential of Environmental Pseudomonas aeruginosa Isolates: Insights from In Vitro Studies and Genome Mining Approaches. Journal of Genetic Engineering and Biotechnology. 2025 May 23(3). doi:  https://doi.org/10.1016/j.jgeb.2025.100508 
+Hossain MS, Sharna AA, Sharmin S, Tusty TA, Hashem A, Sarker PK. Exploring the Antibacterial Potential of Environmental Pseudomonas aeruginosa Isolates: Insights from In Vitro Studies and Genome Mining Approaches. Journal of Genetic Engineering and Biotechnology. 2025 May 23(3). doi:  https://doi.org/10.1016/j.jgeb.2025.100508
+
 Hossain MS, Tuli SR, Fatima N, Tanim MT, Hashem A. Exploration of the metabolic potential of the Corallococcus genus: a rich source of secondary metabolites and CAZymes. Biologia. 2025 Jan 21:1-12. doi: https://doi.org/10.1007/s11756-025-01866-y 
 Shaha M, Majumder S, Hossain MS, Jahan M, Rahmat R, Asma R, Islam MA, Rahman MH, Das KC, Sarker PK, Mahtab MA, Akbar SMF, Salimullah M. Identification of a novel variant of hepatitis B virus isolated from patient co-infected with hepatitis C virus. Virus Res. 2022 Oct 2;319:198859. doi: https://doi.org/10.1016/j.virusres.2022.198859.  PMID: 35809696.
 Islam E, Hossain MS, Sarker PK, Towhid ST, Salimullah M, Hashem A. Isolation and characterization of electrogenic bacteria from tannery wastewater. Bangladesh J Microbiol. 2020;37(1):23-7. Available from: https://www.academia.edu/download/79121723/36394.pdf
