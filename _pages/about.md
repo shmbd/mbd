@@ -60,3 +60,15 @@ Shaha M, Sarker PK, Hossain MS, Das KC, Jahan M, Dey SK, Tabassum S, Hashem A, S
 Shaha M, Chakraborty S, Hossain MS, Hashem A, Salimullah M. Molecular evolution and genomics of hepatitis B virus subgenotype C2 strain predominant in the chronic patients in Bangladesh. Virusdisease. 2018 Dec;29(4):486-490. doi: https://doi.org/10.1007/s13337-018-0497-6. Epub 2018 Oct 17. PMID: 30539051; PMCID: PMC6261884.
 
 Barua E, Hossain MS, Shaha M, Islam E, Zohora FT, Protity AT, Mukharjee SK, Sarker PK, Salimullah M, Hashem A. Generation of electricity using microbial fuel cell (MFC) from sludge. Bangladesh J. Microbiol. 2018;35(1):23-6. DOI: https://doi.org/10.3329/BJM.V35I1.39800 
+
+# Honors and Awards
+
+NST fellowship
+
+# Education
+
+BS and MS
+
+# Invited Talks
+
+Yet nothing
