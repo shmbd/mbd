@@ -7,7 +7,9 @@ author_profile: false
 ---
 # Peer reviewd
 Ferdous, J., Hossain, M. S., Sarker, P. K., Bhuia, M. S., Hasan, M. S. A., Chowdhury, R., Ali, M. S., Auwal, M. R., Das, K. C., Islam, M. T., Hashem, A., & Salimullah, M. (2025). Three Characterized Probiotics from Dairy Sources—Weissella confusa (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)-Exhibit Potential for Antidiarrheal Effects. Probiotics and Antimicrobial Proteins. https://doi.org/10.1007/s12602-025-10775-0 (Jointly first author)
+
 Hossain, M. S., Tuli, S. R., Fatima, N., Ali, S., Moon, S. B., & Hashem, A. (2025). A comprehensive Pangenome approach to exploring the probiotic potential of Weissella confusa. The Microbe, 100562. https://doi.org/10.1016/j.microb.2025.100562 
+
 Hossain MS, Sharna AA, Sharmin S, Tusty TA, Hashem A, Sarker PK. Exploring the Antibacterial Potential of Environmental Pseudomonas aeruginosa Isolates: Insights from In Vitro Studies and Genome Mining Approaches. Journal of Genetic Engineering and Biotechnology. 2025 May 23(3). doi:  https://doi.org/10.1016/j.jgeb.2025.100508 
 Hossain MS, Tuli SR, Fatima N, Tanim MT, Hashem A. Exploration of the metabolic potential of the Corallococcus genus: a rich source of secondary metabolites and CAZymes. Biologia. 2025 Jan 21:1-12. doi: https://doi.org/10.1007/s11756-025-01866-y 
 Shaha M, Majumder S, Hossain MS, Jahan M, Rahmat R, Asma R, Islam MA, Rahman MH, Das KC, Sarker PK, Mahtab MA, Akbar SMF, Salimullah M. Identification of a novel variant of hepatitis B virus isolated from patient co-infected with hepatitis C virus. Virus Res. 2022 Oct 2;319:198859. doi: https://doi.org/10.1016/j.virusres.2022.198859.  PMID: 35809696.
