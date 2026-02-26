@@ -1,7 +1,7 @@
 ---
 title: News
 permalink: /news/
-layout: single
+layout: page
 author_profile: false
 ---
 
