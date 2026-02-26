@@ -2,6 +2,7 @@
 title: News
 permalink: /news/
 layout: page
+author profile: false
 ---
 
 # Top news
