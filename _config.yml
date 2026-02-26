@@ -21,31 +21,31 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Md. Saddam"
+  name             : "Md. Saddam Hossain"
   avatar           : "images/me-1.jpeg"
-  bio              : "Micro"
+  bio              : "Scientific Officer, Microbial Biotechnology Division, NIB"
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=p0xjD0QAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  email            : "sh20nov@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Md-Saddam-Hossain-16"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "shmbd"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/ms-hossain-nib/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-7735-9888"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
