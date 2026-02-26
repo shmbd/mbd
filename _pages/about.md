@@ -21,10 +21,6 @@ I am a microbiologist, currently working at the National Institute of Biotechnol
 
 My goal is to bridge traditional microbiological approaches with modern genomics to address global health and food security challenges. I value interdisciplinary collaboration, data-driven discovery, and mentoring young researchers.
 
-# Education
-
-I have completed my BS and MS in Microbiology from University of Dhaka
-
 # Research Experience
 
 1. Researcher of the project entitled “Development of Probiotic for Human Health” (January 2023–Present)
