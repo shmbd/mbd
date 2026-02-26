@@ -10,10 +10,10 @@ main:
     url: "/mbd/#publications"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/mbd/#honors-and-awards"
 
   - title: "Education"
-    url: "/#education"
+    url: "/mbd/#education"
 
   - title: "Invited Talks"
-    url: "/#invited-talks"
+    url: "/mbd/#invited-talks"
