@@ -1,5 +1,5 @@
 ---
-layout: archive      # or 'page' / 'splash' depending on your theme
+layout: page      # or 'page' / 'splash' depending on your theme
 permalink: /news/    # ← change this (remove /news.html redirect if unwanted)
 title: "News"
 excerpt: "Recent updates and announcements"
