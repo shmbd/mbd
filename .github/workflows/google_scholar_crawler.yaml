@@ -1,5 +1,4 @@
-name: Get Citation Data
-
+name: p0xjD0QAAAAJ&hl
 on: 
  page_build: 
  schedule:
@@ -26,4 +25,4 @@ jobs:
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
       env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        GOOGLE_SCHOLAR_ID: ${{ secrets.p0xjD0QAAAAJ&hl }}
