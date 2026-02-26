@@ -7,7 +7,7 @@ main:
     url: "/mbd/#news"
 
   - title: "Publications"
-    url: "/mbd/publications"
+    url: "/mbd/#publications"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
