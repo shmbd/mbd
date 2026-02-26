@@ -4,7 +4,7 @@ main:
     url: "/mbd/#about-me"
 
   - title: "News"
-    url: "/mbd/news"
+    url: "/mbd/#news"
 
   - title: "Publications"
     url: "/mbd/publications"
