@@ -89,7 +89,7 @@ Research and Development (R&D) Grant from Ministry of Science and Technology (Mo
 | BS                    | Microbiology     | 3.59 out of 4.00     | University of Dhaka, Bangladesh     | 2014          |
 
 
-# Professional Development/Training/Courses
+# Trainings
 
 1. Training on Animal Cell Culture Techniques for Advanced Research, 18-22 May, 2025; Organized by CARS, DU
 2. Training on Laboratory Animals and Animal Facilities: Characteristics, Development, Ethics, Welfare and Legislation, 12-13 Feb, 2025; Organized by International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)
@@ -107,7 +107,7 @@ Research and Development (R&D) Grant from Ministry of Science and Technology (Mo
 1. Global Outreach - Contributing Member of American Society for Microbiology (ASM)
 2. Affiliate Membership of the Microbiology Society (Membership No: C028651)
 
-# Thesis Student Supervision
+# Supervision
 
 | Student Name          | University/Institute     | Academic Supervisor | Joining Date   |
 |-----------------------|--------------------------|---------------------|----------------|
