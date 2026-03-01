@@ -36,7 +36,7 @@ My goal is to bridge traditional microbiological approaches with modern genomics
 2022 is …
 
 # Publications 
-                                                                      𝟐𝟎𝟐𝟓
+## 2025
                                                                       
 [A comprehensive pangenome approach to exploring the probiotic potential of Weissella confusa](https://www.sciencedirect.com/science/article/pii/S2950194625003309?via%3Dihub) (**First Author**)
 
