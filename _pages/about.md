@@ -82,6 +82,7 @@ Research and Development (R&D) Grant from Ministry of Science and Technology (Mo
 Research and Development (R&D) Grant from Ministry of Science and Technology (MoST), Bangladesh (750 USD)
 
 # Education
+
 | Degree                                      | Department       | CGPA        | Varsity              | Year          |
 |---------------------------------------------|------------------|----------------|-----------------------|---------------|
 | MS                              | Microbiology     | 3.42 out of 4.00      | University of Dhaka, Bangladesh     | 2015 (Exam held in 2016) |
