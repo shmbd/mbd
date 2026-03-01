@@ -16,7 +16,7 @@ main:
     url: "/mbd/#education"
 
   - title: "Trainings"
-    url: "/mbd/#training"
+    url: "/mbd/#trainings"
 
   - title: "Membership"
     url: "/mbd/#membership"
