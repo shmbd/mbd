@@ -36,6 +36,8 @@ My goal is to bridge traditional microbiological approaches with modern genomics
 2022 is …
 
 # Publications
+## 2025
+[A comprehensive pangenome approach to exploring the probiotic potential of Weissella confusa] (https://www.sciencedirect.com/science/article/pii/S2950194625003309?via%3Dihub)
 
 Ferdous, J., Hossain, M. S., Sarker, P. K., Bhuia, M. S., Hasan, M. S. A., Chowdhury, R., Ali, M. S., Auwal, M. R., Das, K. C., Islam, M. T., Hashem, A., & Salimullah, M. (2025). Three Characterized Probiotics from Dairy Sources—Weissella confusa (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)-Exhibit Potential for Antidiarrheal Effects. Probiotics and Antimicrobial Proteins. https://doi.org/10.1007/s12602-025-10775-0 (Jointly first author)
 
