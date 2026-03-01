@@ -3,17 +3,23 @@ main:
   - title: "About Me"
     url: "/mbd/#about-me"
 
-  - title: "News"
-    url: "/mbd/#news"
+  - title: "Research Experience"
+    url: "/mbd/#research-experience"
 
   - title: "Publications"
     url: "/mbd/#publications"
 
-  - title: "Honors and Awards"
+  - title: "Honors, Awards and Grants"
     url: "/mbd/#honors-and-awards"
 
   - title: "Education"
     url: "/mbd/#education"
 
-  - title: "Invited Talks"
-    url: "/mbd/#invited-talks"
+  - title: "Trainings"
+    url: "/mbd/#training"
+
+  - title: "Membership"
+    url: "/mbd/#membership"
+
+  - title: "Supervision"
+    url: "/mbd/#supervision"
