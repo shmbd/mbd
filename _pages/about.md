@@ -31,10 +31,6 @@ My goal is to bridge traditional microbiological approaches with modern genomics
 6. Co-investigator of the project entitled “Whole Genome Sequence of Hepatitis B Virus from a Patient in Bangladesh” (January 2018-December 2018)
 7. Researcher of the project entitled “Generation of electricity Using Microbial Fuel Cell (MFC) from Sludge” (September 2017-June 2019)
 
-# News
-
-2022 is …
-
 # Publications 
 ## 2025
                                                                       
@@ -42,32 +38,77 @@ My goal is to bridge traditional microbiological approaches with modern genomics
 
 [Three Characterized Probiotics from Dairy Sources—Weissella confusa (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)-Exhibit Potential for Antidiarrheal Effects](https://link.springer.com/article/10.1007/s12602-025-10775-0) (**Jointly First Author**)
 
-Hossain, M. S., Tuli, S. R., Fatima, N., Ali, S., Moon, S. B., & Hashem, A. (2025). A comprehensive Pangenome approach to exploring the probiotic potential of Weissella confusa. The Microbe, 100562. https://doi.org/10.1016/j.microb.2025.100562 
+[Exploring the Antibacterial Potential of Environmental Pseudomonas aeruginosa Isolates: Insights from In Vitro Studies and Genome Mining Approaches](https://www.sciencedirect.com/science/article/pii/S1687157X25000526?via%3Dihub) (**First Author**)
 
-Hossain MS, Sharna AA, Sharmin S, Tusty TA, Hashem A, Sarker PK. Exploring the Antibacterial Potential of Environmental Pseudomonas aeruginosa Isolates: Insights from In Vitro Studies and Genome Mining Approaches. Journal of Genetic Engineering and Biotechnology. 2025 May 23(3). doi:  https://doi.org/10.1016/j.jgeb.2025.100508
+[Exploration of the metabolic potential of the Corallococcus genus: a rich source of secondary metabolites and CAZymes](https://link.springer.com/article/10.1007/s11756-025-01866-y) (**First Author**)
 
-Hossain MS, Tuli SR, Fatima N, Tanim MT, Hashem A. Exploration of the metabolic potential of the Corallococcus genus: a rich source of secondary metabolites and CAZymes. Biologia. 2025 Jan 21:1-12. doi: https://doi.org/10.1007/s11756-025-01866-y 
+## 2022
 
-Shaha M, Majumder S, Hossain MS, Jahan M, Rahmat R, Asma R, Islam MA, Rahman MH, Das KC, Sarker PK, Mahtab MA, Akbar SMF, Salimullah M. Identification of a novel variant of hepatitis B virus isolated from patient co-infected with hepatitis C virus. Virus Res. 2022 Oct 2;319:198859. doi: https://doi.org/10.1016/j.virusres.2022.198859.  PMID: 35809696.
+[Identification of a novel variant of hepatitis B virus isolated from patient co-infected with hepatitis C virus.](https://www.sciencedirect.com/science/article/abs/pii/S0168170222001873?via%3Dihub) (**Third Author**)
 
-Islam E, Hossain MS, Sarker PK, Towhid ST, Salimullah M, Hashem A. Isolation and characterization of electrogenic bacteria from tannery wastewater. Bangladesh J Microbiol. 2020;37(1):23-7. Available from: https://www.academia.edu/download/79121723/36394.pdf
+## 2020
 
-Shaha M, Das KC, Hossain MS, Jahan M, Hashem A, Rahman SR, Salimullah M. Complete Genome Sequence of a Circulating Hepatitis B Virus Genotype C Strain Isolated from a Chronically Infected Patient Identified at an Outdoor Hospital in Bangladesh. Genome Announc. 2018 Mar 1;6(9):e01601-17. doi: https://doi.org/10.1128/genomeA.01601-17. PMID: 29496845; 
+[Isolation and characterization of electrogenic bacteria from tannery wastewater](https://www.banglajol.info/index.php/BJM/article/view/51205)
 
-Shaha M, Sarker PK, Hossain MS, Das KC, Jahan M, Dey SK, Tabassum S, Hashem A, Salimullah M. Analysis of the complete genome of hepatitis B virus subgenotype C2 isolate NHB17965 from a HBV infected patient. F1000Res. 2018 Jul 9;7:1023. doi: https://doi.org/10.12688/f1000research.15090.3. PMID: 30228877; PMCID: PMC6124380.
+## 2018
 
-Shaha M, Chakraborty S, Hossain MS, Hashem A, Salimullah M. Molecular evolution and genomics of hepatitis B virus subgenotype C2 strain predominant in the chronic patients in Bangladesh. Virusdisease. 2018 Dec;29(4):486-490. doi: https://doi.org/10.1007/s13337-018-0497-6. Epub 2018 Oct 17. PMID: 30539051; PMCID: PMC6261884.
+[Complete Genome Sequence of a Circulating Hepatitis B Virus Genotype C Strain Isolated from a Chronically Infected Patient Identified at an Outdoor Hospital in Bangladesh](https://journals.asm.org/doi/10.1128/genomea.01601-17)
 
-Barua E, Hossain MS, Shaha M, Islam E, Zohora FT, Protity AT, Mukharjee SK, Sarker PK, Salimullah M, Hashem A. Generation of electricity using microbial fuel cell (MFC) from sludge. Bangladesh J. Microbiol. 2018;35(1):23-6. DOI: https://doi.org/10.3329/BJM.V35I1.39800 
+[Analysis of the complete genome of hepatitis B virus subgenotype C2 isolate NHB17965 from a HBV infected patient](https://f1000research.com/articles/7-1023/v1#referee-response-35849)
 
-# Honors and Awards
+[Molecular evolution and genomics of hepatitis B virus subgenotype C2 strain predominant in the chronic patients in Bangladesh](https://link.springer.com/article/10.1007/s13337-018-0497-6)
 
-NST fellowship
+[Generation of electricity using microbial fuel cell (MFC) from sludge](https://www.banglajol.info/index.php/BJM/article/view/39800) 
+
+# Honors, Awards and Grants
+## 2023
+
+Research and Development (R&D) Grant from Ministry of Science and Technology (MoST), Bangladesh (1000 USD)
+
+## 2021
+
+Research Grant from National Gene Bank (NGB) Project, Bangladesh (36000 USD)
+
+## 2022
+
+Research and Development (R&D) Grant from Ministry of Science and Technology (MoST), Bangladesh (600 USD)
+
+## 2019
+
+Research and Development (R&D) Grant from Ministry of Science and Technology (MoST), Bangladesh (800 USD)
+
+## 2018
+
+Research and Development (R&D) Grant from Ministry of Science and Technology (MoST), Bangladesh (750 USD)
 
 # Education
+| Degree                                      | Department       | CGPA       | Title / Thesis                                                                 | Varsity              | Year          |
+|---------------------------------------------|------------------|----------------|--------------------------------------------------------------------------------|-----------------------|---------------|
+| MS                              | Microbiology     | 3.42 out of 4.00      | Important Mutation Analysis of Hepatitis B Virus (HBV) among Injectable Drug Users (IDUs) | University of Dhaka, Bangladesh     | 2015 (Exam held in 2016) |
+| BS                    | Microbiology     | 3.59 out of 4.00      | -                                                                              | University of Dhaka, Bangladesh     | 2014          |
 
-BS and MS
 
-# Invited Talks
+# Professional Development/Training/Courses
 
-Yet nothing
+1. Training on Animal Cell Culture Techniques for Advanced Research, 18-22 May, 2025; Organized by CARS, DU
+2. Training on Laboratory Animals and Animal Facilities: Characteristics, Development, Ethics, Welfare and Legislation, 12-13 Feb, 2025; Organized by International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)
+3. Training on Introduction to R, Python and Linux, 01-10 June 2023; Organized by National Institute of Biotechnology (NIB)
+4. Hands-on training on ‘Proteomics principles and application’, 08-17 May, 2023; Organized by National Institute of Biotechnology (NIB)
+5. Hands-on training on ‘Genome editing’, 16-25 May, 2022; Organized by National Institute of Biotechnology (NIB)
+6. Training on Advanced Bioinformatics, 20-24 Mar, 2022; Organized by National Institute of Biotechnology (NIB)
+7. Training on Basic Bioinformatics concepts, Databases and Tools, 13-17 Feb, 2022; Organized by National Institute of Biotechnology (NIB)
+8. Fundamentals of Bioinformatics for Biologists, 04-10 Jul, 2021; Organized by National Institute of Biotechnology (NIB)
+9. Basic Course on ‘Epidemiology, Biostatistics and SPSS’, 23 Feb– 12 Mar, 2020; Organized by International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)
+10. Advanced Training of Biotechnology, 20-29 November, 2017; Organized by National Institute of Biotechnology (NIB)
+
+# Membership
+
+1. Global Outreach - Contributing Member of American Society for Microbiology (ASM)
+2. Affiliate Membership of the Microbiology Society (Membership No: C028651)
+
+# Thesis Student Supervision
+
+| Student Name          | University/Institute     | Academic Supervisor | Joining Date   |
+|-----------------------|--------------------------|---------------------|----------------|
+| Naim                  | GSTU                     |                     | August, 2025   |
+| Jannatun Naima Puspo  | Stamford University      | Dr. Sharif          | Nov, 2024      |
