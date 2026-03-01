@@ -107,6 +107,12 @@ Research and Development (R&D) Grant from Ministry of Science and Technology (Mo
 1. Global Outreach - Contributing Member of American Society for Microbiology (ASM)
 2. Affiliate Membership of the Microbiology Society (Membership No: C028651)
 
+# Conferences
+
+1. Oral presenter: “Comprehensive In Vitro and In Silico Evaluation of Weissella confusa for Probiotic Potential”, 38th BSM Annual International Conference; 28-29 December, 2024
+2. Oral presenter: “Genomic Analysis of Antibiotic Producing Microbes Isolated from Environmental Soil Samples”, BGE International Conference; 2023
+3. Poster presentation: “Isolation and Identifications of Potential Electrogenic Bacteria from Tannery Wastewater”, 32nd BSM Annual Conference; 2019
+
 # Supervision
 
 | Student Name          | University/Institute     | Academic Supervisor | Joining Date   |
