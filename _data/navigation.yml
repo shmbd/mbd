@@ -21,5 +21,8 @@ main:
   - title: "Membership"
     url: "/mbd/#membership"
 
+  - title: "Conferences"
+    url: "/mbd/#conferences"
+  
   - title: "Supervision"
     url: "/mbd/#supervision"
