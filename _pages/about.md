@@ -117,5 +117,5 @@ Research and Development (R&D) Grant from Ministry of Science and Technology (Mo
 
 | Student Name          | University/Institute     | Academic Supervisor | Joining Date   |
 |-----------------------|--------------------------|---------------------|----------------|
-| Naim                  | GSTU                     |                     | August, 2025   |
-| Jannatun Naima Puspo  | Stamford University      | Dr. Sharif          | Nov, 2024      |
+| Naim                  | GSTU                     |  Md. Sahabuddin                   | August, 2025   |
+| Jannatun Naima Puspo  | Stamford University      | Dr. Sharifull Islam          | Nov, 2024      |
